@@ -3,8 +3,8 @@
 html, body {
   margin: 0;
   padding: 0;
-  background: #9cc2d2;
-  color: #354b59;
+  background: #b687fa;
+  color: green;
   font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
   font-family: "Whitney SSm A","Whitney SSm B","Helvetica Neue",Helvetica,Arial,sans-serif;
   font-size: 18px; }
@@ -960,7 +960,7 @@ hr {
         .btc-donate .address:after {
           left: 50%;
           bottom: 2px; } }
-a.learn, a.keep-playing-button {
+a.keep-playing-button {
   background-color: #de8b3e;
   text-decoration: none;
   border: 1px solid;
